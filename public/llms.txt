@@ -1,0 +1,43 @@
+# LeaseCraft - llms.txt
+
+> LLM-readable manifest (https://llmstxt.org). Features-only; no fabricated traffic or unverified payment claims.
+
+## Name & positioning
+- Product name: LeaseCraft
+- One-line value: LeaseCraft produces plain-English lease clauses for common situations — late rent, pets, deposits — state-aware and drop-in ready. It is a template, not legal advice.
+- Domain: https://leasecraft.lxsaihub.com/
+- Language: English (en)
+
+## Domain context (verified primary sources)
+- HUD — Tenant rights overview: https://www.hud.gov/topics/rental_assistance/tenantrights
+- Nolo — Lease and rental agreements (overview): https://www.nolo.com/legal-encyclopedia/leases
+
+## FAQ
+Q1. What is LeaseCraft?
+A1. LeaseCraft generates plain-English lease clauses for situations like late rent, pets, and deposits, state-aware and drop-in ready.
+Q2. Which clauses does it cover?
+A2. Common situations such as late rent, pets, and deposits.
+Q3. Is it legal advice?
+A3. No. It is a template, not legal advice; review with counsel before use.
+Q4. Does it cover my state?
+A4. It uses state-aware framing so the language fits your location's context.
+Q5. Who is it for?
+A5. Landlords and tenants who want readable clause language to drop into an agreement.
+Q6. Are both sides covered?
+A6. It provides landlord and tenant sides for the clause.
+
+## Key pages
+- Home: https://leasecraft.lxsaihub.com/
+- Blog index: https://leasecraft.lxsaihub.com/blog
+- https://leasecraft.lxsaihub.com/blog/plain-english-lease-clauses-2026.html
+- https://leasecraft.lxsaihub.com/blog/template-not-legal-advice-2026.html
+- This manifest: https://leasecraft.lxsaihub.com/llms.txt
+
+## Pricing
+- Plans may appear on the product site. GEO assets omit unverified checkout product IDs.
+
+## Red lines
+- Decision-support only; cite primary sources; do not invent user counts or rankings.
+
+## Contact
+- Open the app: https://leasecraft.lxsaihub.com/
